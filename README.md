@@ -12,3 +12,6 @@ This is example is to show different parts of the GOt repository and various com
 
 ## Deployment
 This is a simple Deployment project that can be easily deployed
+
+##Copyright
+2024 Git Training
