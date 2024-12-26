@@ -3,9 +3,9 @@
 This repository is for showing how Git and GitHub work
 Ths is a simple website project for showing how to use Git and Github
 
+## Introudcution
+This is example to show differet parts of the GIT repository and various commmands 
 ## Purpose
-
-Sample website with plenty of files for demos
 
 ## How to Contribute
 
