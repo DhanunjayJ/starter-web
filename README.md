@@ -9,6 +9,8 @@ This is example to show differet parts of the GIT repository and various commman
 This is example is to show different parts of the GOt repository and various command using ta web project
 
 ## How to Contribute
+Please fork this repo and issue pr for review
+
 
 ## Deployment
 This is a simple Deployment project that can be easily deployed
